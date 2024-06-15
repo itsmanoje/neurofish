@@ -19,7 +19,7 @@
     "multer": "^1.4.5-lts.1",
     "path": "^0.12.7",
     "tensorflow": "^2.10.0",
-    "matplotlib": "^3.5.3",
-    "numpy": "^1.21.6"
+    "matplotlib": "^1.0.0",
+    "numpy": "^0.0.1"
   }
 }
