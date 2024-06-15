@@ -1,4 +1,4 @@
-tensorflow==2.10.1
-keras==2.10.0
-matplotlib==3.5.3
-numpy==1.21.6
+tensorflow
+keras
+matplotlib
+numpy
