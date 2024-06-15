@@ -18,8 +18,9 @@
     "fs": "^0.0.1-security",
     "multer": "^1.4.5-lts.1",
     "path": "^0.12.7",
-    "tensorflow": "^0.7.0",
-    "matplotlib": "^1.0.0",
-    "numpy": "^0.0.1"
+    "tensorflow": "latest",
+    "matplotlib": "latest",
+    "numpy": "latest",
+    "keras": "latest"
   }
 }
