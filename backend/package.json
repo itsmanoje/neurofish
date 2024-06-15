@@ -17,10 +17,7 @@
     "firebase-functions": "^5.0.1",
     "fs": "^0.0.1-security",
     "multer": "^1.4.5-lts.1",
-    "path": "^0.12.7",
-    "matplotlib": "^3.5.3",
-    "numpy": "^1.21.6",
-    "keras": "^2.11.0",
-    "tensorflow": "^2.10.1"
+    "path": "^0.12.7"
+    
   }
 }
