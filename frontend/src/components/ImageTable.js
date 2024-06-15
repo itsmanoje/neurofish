@@ -13,7 +13,7 @@ function ImageTable() {
   useEffect(() => {
     async function fetchImages() {
       try {
-        const response = await axios.get('https://neurofish-187-285ac.web.app/api/images');
+        const response = await axios.get('https://neurofish.onrender.com/images');
         setImages(response.data);
         console.log(response.data);
       } catch (error) {
