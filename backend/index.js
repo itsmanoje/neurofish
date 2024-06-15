@@ -153,11 +153,11 @@ app.get('/compute/:fileName', (req, res) => {
 
 
 // Set up Express app as Firebase Function
-exports.api = functions.https.onRequest(app);
+//exports.api = functions.https.onRequest(app);
 
 
 //Server port
-//const PORT = process.env.PORT || 3001;
-//app.listen(PORT, () => {
-//  console.log(`Server is running on port ${PORT}`);
-//});
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
