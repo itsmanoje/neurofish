@@ -21,6 +21,7 @@
     "tensorflow": "latest",
     "matplotlib": "latest",
     "numpy": "latest",
-    "keras": "latest"
+    "keras": "latest",
+    "ref":"latest"
   }
 }
